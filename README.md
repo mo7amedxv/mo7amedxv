@@ -1,16 +1,37 @@
-## Hi there 👋
+### 👋 Hi, I'm Mohamed Hatem
 
-<!--
-**mo7amedxv/mo7amedxv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Front-End Developer building clean, responsive, and accessible web experiences**
 
-Here are some ideas to get you started:
+- 🎨 I turn designs into clean, responsive interfaces using HTML, CSS & Tailwind CSS
+- 🌱 I'm currently leveling up my JavaScript to take on more interactive work
+- 💼 Open to freelance work — big or small
+- 📍 Based in Alexandria, Egypt
+- 📫 Reach me at **mohamedsecondacc@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+
+![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,git,github,vscode,figma)
+
+---
+
+### 📊 GitHub Stats
+
+![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mo7amedxv&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mo7amedxv&layout=compact&theme=dark&hide_border=true)
+
+---
+
+### 🚀 Featured Projects
+
+- 🔗 [Portfolio](https://mo7amedxv.github.io/portfolio/) — my personal site, built with HTML, Tailwind CSS & JavaScript
+- 🔗 [PcBenchPro — elKaeron](https://mo7amedxv.github.io/elkaeron/)
+- 🔗 [Jadwaly — Nursery Management](https://mo7amedxv.github.io/jadwaly-shaima/)
+
+---
+
+### 🔗 Find Me Online
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-hatem-68ba49414/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohamedsecondacc@gmail.com)
