@@ -16,13 +16,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mo7amedxv&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mo7amedxv&layout=compact&theme=dark&hide_border=true)
-
----
-
 ### 🚀 Featured Projects
 
 - 🔗 [Portfolio](https://mo7amedxv.github.io/portfolio/) — my personal site, built with HTML, Tailwind CSS & JavaScript
