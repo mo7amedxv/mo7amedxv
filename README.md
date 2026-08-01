@@ -6,7 +6,7 @@
 - 🌱 I'm currently leveling up my JavaScript to take on more interactive work
 - 💼 Open to freelance work — big or small
 - 📍 Based in Alexandria, Egypt
-- 📫 Reach me at **mohamedsecondacc@gmail.com**
+- 📫 Reach me at **contact.mohamedhatem**
 
 ---
 
