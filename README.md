@@ -12,7 +12,7 @@
 
 ### 🛠️ Tech Stack & Tools
 
-![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,git,github,vscode,figma)
+![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,git,github,vscode)
 
 ---
 
