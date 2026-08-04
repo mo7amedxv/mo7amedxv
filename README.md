@@ -26,5 +26,5 @@
 
 ### 🔗 Find Me Online
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-hatem-68ba49414/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-hatem-webdev/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact.mohamedhatem@gmail.com)
