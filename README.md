@@ -1,8 +1,4 @@
-<div align="center">
-
 # 👋 Hi, I'm Mohamed Hatem
-
-</div>
 
 ### Front-End Developer turning designs into clean, responsive interfaces
 
