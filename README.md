@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Mohamed Hatem
 
-### Front-End Developer turning designs into clean, responsive interfaces
-
 </div>
+
+### Front-End Developer turning designs into clean, responsive interfaces
 
 ---
 
