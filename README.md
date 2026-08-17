@@ -2,8 +2,6 @@
 
 ### Front-End Developer turning designs into clean, responsive interfaces
 
----
-
 🛠️ I build responsive interfaces with HTML, CSS, and Tailwind CSS
 
 💻 Currently sharpening my JavaScript skills for more interactive work
