@@ -4,7 +4,7 @@
 
 - 🎨 I turn designs into clean, responsive interfaces using HTML, CSS & Tailwind CSS
 - 🌱 I'm currently leveling up my JavaScript to take on more interactive work
-- 💼 Open to freelance work — big or small
+- 💼 Open to freelance work big or small
 - 📍 Based in Alexandria, Egypt
 - 📫 Reach me at **contact.mohamedhatem@gmail.com**
 
@@ -19,8 +19,8 @@
 ### 🚀 Featured Projects
 
 - 🔗 [Portfolio](https://mo7amedxv.github.io/portfolio/) — my personal site, built with HTML, Tailwind CSS & JavaScript
-- 🔗 [PcBenchPro — elKaeron](https://mo7amedxv.github.io/elkaeron/)
-- 🔗 [Jadwaly — Nursery Management](https://mo7amedxv.github.io/jadwaly-shaima/)
+- 🔗 [ElKaeron](https://mo7amedxv.github.io/elkaeron/)
+- 🔗 [Jadwaly](https://mo7amedxv.github.io/jadwaly-shaima/)
 
 ---
 
