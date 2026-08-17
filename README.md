@@ -11,4 +11,3 @@ I build clean, responsive interfaces with HTML, CSS, and Tailwind CSS. Right now
 
 ### Tech Stack
 ![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,git,github,vscode)
-[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact.mohamedhatem@gmail.com)
