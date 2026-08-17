@@ -18,7 +18,7 @@
 
 ### Featured Projects
 
-- 🔗 [Portfolio](https://mo7amedxv.github.io/portfolio/) — my personal site, built with HTML, Tailwind CSS & JavaScript
+- 🔗 [Portfolio](https://mo7amedxv.github.io/portfolio/) my personal site, built with HTML, Tailwind CSS & JavaScript
 - 🔗 [ElKaeron](https://mo7amedxv.github.io/elkaeron/)
 - 🔗 [Jadwaly](https://mo7amedxv.github.io/jadwaly-shaima/)
 
