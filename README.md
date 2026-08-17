@@ -1,11 +1,5 @@
-<div align="center">
-
 # 👋 Hi, I'm Mohamed Hatem
-
 ### Front-End Developer turning designs into clean, responsive interfaces
-
-</div>
-
 ---
 
 🛠️ I build responsive interfaces with HTML, CSS, and Tailwind CSS
