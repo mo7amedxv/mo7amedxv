@@ -1,11 +1,11 @@
 ### 👋 Hi, I'm Mohamed Hatem
 **Front-End Developer**
 
-I build clean, responsive interfaces with HTML, CSS, and Tailwind CSS. Right now I'm sharpening my JavaScript skills to handle more interactive projects.
+I build clean, responsive interfaces with HTML, CSS, and Tailwind CSS. Right now I'm sharpening my JavaScript skills to handle more interactive projects. Turning ideas into pixels is basically my happy place 🎨
 
-- Open to freelance work, any size
-- Based in Alexandria, Egypt
-- Email: contact.mohamedhatem@gmail.com
+- 💼 Open to freelance work, any size
+- 📍 Based in Alexandria, Egypt
+- 📬 Email: contact.mohamedhatem@gmail.com
 
 ---
 
