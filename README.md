@@ -1,13 +1,24 @@
-### 👋 Hi, I'm Mohamed Hatem
-**Front-End Developer**
+<div align="center">
 
-I build clean, responsive interfaces with HTML, CSS, and Tailwind CSS. Right now I'm sharpening my JavaScript skills to handle more interactive projects. Turning ideas into pixels is basically my happy place 🎨
+# 👋 Hi, I'm Mohamed Hatem
 
-- 💼 Open to freelance work, any size
-- 📍 Based in Alexandria, Egypt
-- 📬 Email: contact.mohamedhatem@gmail.com
+### Front-End Developer turning designs into clean, responsive interfaces
+
+</div>
 
 ---
 
-### Tech Stack
+🛠️ I build responsive interfaces with HTML, CSS, and Tailwind CSS
+
+💻 Currently sharpening my JavaScript skills for more interactive work
+
+🤝 Open to freelance work, big or small
+
+📍 Based in Alexandria, Egypt
+
+📬 Reach me at contact.mohamedhatem@gmail.com
+
+---
+
+### 🧰 Tech Stack
 ![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,git,github,vscode)
