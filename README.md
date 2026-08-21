@@ -3,15 +3,11 @@
 
 ---
 
-🛠️ I build responsive interfaces with HTML, CSS, and Tailwind CSS
-
-💻 Currently sharpening my JavaScript skills for more interactive work
-
-🤝 Open to freelance work, big or small
-
-📍 Based in Alexandria, Egypt
-
-📬 Reach me at contact.mohamedhatem@gmail.com
+- I build responsive interfaces with HTML, CSS, and Tailwind CSS
+- Currently sharpening my JavaScript skills for more interactive work
+- Open to freelance work, big or small
+- Based in Alexandria, Egypt
+- Reach me at contact.mohamedhatem@gmail.com
 
 ---
 
