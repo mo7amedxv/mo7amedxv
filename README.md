@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Mohamed Hatem
-### <marquee>Front-End Developer, based in Alexandria, Egypt. turning designs into clean, responsive interfaces</marquee>
+<marquee>Front-End Developer, based in Alexandria, Egypt. turning designs into clean, responsive interfaces</marquee>
 
 
 ---
