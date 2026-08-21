@@ -1,16 +1,14 @@
-# <marquee behavior="alternate" scrollamount="5">👋 Hi, I'm Mohamed Hatem</marquee>
+# 👋 Hi, I'm Mohamed Hatem
+<marquee>Front-End Developer, based in Alexandria, Egypt. turning designs into clean, responsive interfaces</marquee>
 
-### 🚀 Front-End Developer | Alexandria, Egypt
-*Turning designs into clean, responsive, and interactive interfaces.*
-
----
-
-### 👤 About Me
-- 💻 **Builds** responsive layouts using **HTML**, **CSS**, and **Tailwind CSS**.
-- ⚡ **Learning** advanced **JavaScript** to build more dynamic web applications.
-- ✉️ **Contact** me anytime at [contact.mohamedhatem@gmail.com](mailto:contact.mohamedhatem@gmail.com).
 
 ---
 
-### 🛠️ Tech Stack
-![My Skills](https://skillicons.dev)
+- I build responsive interfaces with HTML, CSS, and Tailwind CSS
+- Currently sharpening my JavaScript skills for more interactive work
+- Reach me at contact.mohamedhatem@gmail.com
+
+---
+
+### My Tech Stack
+![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,git,github,vscode)
