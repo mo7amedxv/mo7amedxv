@@ -9,5 +9,5 @@
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 ![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,git,github,vscode)
